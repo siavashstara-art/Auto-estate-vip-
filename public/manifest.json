@@ -1,0 +1,40 @@
+{
+  "id": "/",
+  "name": "AutoEstate VIP | اتواستیت وی‌آی‌پی",
+  "short_name": "AutoEstate",
+  "description": "سامانه هوشمند نمایشگاه خودرو، املاک لوکس، تهاتر ملک و خودرو و محاسبه‌گر اقساط لیزینگ — اکوسیستم آفرینش | شهر جدید نیومتاورسیتی جهان | توان استیج FBNM",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0B0C10",
+  "theme_color": "#0B0C10",
+  "orientation": "portrait-primary",
+  "dir": "rtl",
+  "lang": "fa-IR",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

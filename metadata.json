@@ -1,0 +1,6 @@
+{
+  "name": "AutoEstate VIP | اتواستیت وی‌آی‌پی",
+  "description": "سامانه هوشمند نمایشگاه خودرو، املاک لوکس، موتور تطبیق تهاتر ملک و خودرو، ماشین‌حساب اقساط لیزینگ و استوری‌ساز اتوگالری — اکوسیستم آفرینش | شهر جدید نیومتاورسیتی جهان | توان استیج FBNM",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0C10" />
+      <stop offset="100%" stop-color="#161821" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F3E5AB" />
+      <stop offset="50%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#996515" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)" />
+  <rect x="28" y="28" width="456" height="456" rx="92" fill="none" stroke="url(#gold)" stroke-width="6" opacity="0.7" />
+  <!-- Luxury Penthouse Roofline -->
+  <path d="M128 230 L256 116 L384 230" fill="none" stroke="url(#gold)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M180 230 V175 H225 V230 M287 230 V160 H332 V230" fill="none" stroke="url(#gold)" stroke-width="10" stroke-linejoin="round" />
+  <!-- Sleek Supercar Silhouette -->
+  <path d="M96 326 C130 326 155 278 216 274 L312 274 C358 274 388 302 418 326 Z" fill="url(#gold)" />
+  <circle cx="164" cy="334" r="30" fill="#0B0C10" stroke="url(#gold)" stroke-width="12" />
+  <circle cx="352" cy="334" r="30" fill="#0B0C10" stroke="url(#gold)" stroke-width="12" />
+  <text x="256" y="426" font-family="sans-serif" font-weight="800" font-size="40" fill="url(#gold)" text-anchor="middle" letter-spacing="6">AUTOESTATE</text>
+</svg>
